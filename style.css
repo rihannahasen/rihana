@@ -350,6 +350,7 @@ color :white;
 }
 
 .article-container {
+  color:black;
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
