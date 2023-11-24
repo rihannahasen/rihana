@@ -333,6 +333,7 @@ color :white;
 /* EXPERIENCE SECTION */
 
 #experience {
+    color: rgb(85, 85, 85);
   position: relative;
 }
 
@@ -344,14 +345,14 @@ color :white;
 }
 
 .experience-details-container {
-  color: black;
+    color: rgb(85, 85, 85);
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
 
 .article-container {
-  color: black;
+    color: rgb(85, 85, 85);
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
@@ -361,7 +362,7 @@ color :white;
 }
 
 article {
-  color: black;
+    color: rgb(85, 85, 85);
   display: flex;
   width: 10rem;
   justify-content: space-around;
