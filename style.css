@@ -344,13 +344,14 @@ color :white;
 }
 
 .experience-details-container {
+  color: black;
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
 
 .article-container {
-  color:black;
+  color: black;
   display: flex;
   text-align: initial;
   flex-wrap: wrap;
@@ -360,6 +361,7 @@ color :white;
 }
 
 article {
+  color: black;
   display: flex;
   width: 10rem;
   justify-content: space-around;
